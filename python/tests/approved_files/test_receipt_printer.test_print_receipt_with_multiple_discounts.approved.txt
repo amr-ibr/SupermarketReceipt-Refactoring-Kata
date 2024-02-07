@@ -1,0 +1,10 @@
+test-product-1                     12.50
+test-product-2                     36.00
+  12.00 * 3
+test-product-3                     12.00
+test-product-4                     24.00
+  12.00 * 2.000
+test_discount_1 (test-product-1)   -6.00
+test_discount_2 (test-product-2)   -3.50
+
+Total:                             75.00
