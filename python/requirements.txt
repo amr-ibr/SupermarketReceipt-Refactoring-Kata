@@ -1,4 +1,4 @@
-approvaltests
+approvaltests==10.3.0
+pytest==8.0.0
 python-dateutil
 pytest-approvaltests
-
